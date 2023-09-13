@@ -1,2 +1,3 @@
-# gem
-Online coverage path planning via greedy entropy maximization.
+# GEM: Online Coverage Path Planning via Greedy Entropy Maximization
+
+Final year research project @ UCL.
